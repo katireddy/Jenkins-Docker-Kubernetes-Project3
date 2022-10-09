@@ -5,7 +5,7 @@ pipeline {
 	}
 	
 	environment {
-		PROJECT_ID = 'devops-352715'
+		PROJECT_ID = 'playground-s-11-227ece27'
                 CLUSTER_NAME = 'devops'
                 LOCATION = 'us-central1-c'
                 CREDENTIALS_ID = 'kubernetes'		
